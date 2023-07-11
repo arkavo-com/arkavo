@@ -17,6 +17,11 @@ Arkavo is an open-source project aimed at providing a robust and flexible set of
 - High level of scalability
 - OpenAPI Specification standard for easy integration
 
+## Social Media
+- [Threads](https://www.threads.net/@arkavo0)
+- [LinkedIn](https://www.linkedin.com/company/arkavo)
+- [Reddit](https://www.reddit.com/r/arkavo/)
+
 ## Support
 
 If you encounter any issues, please open an issue on GitHub. For any questions or high-level discussions, join our community on [Kickstarter](https://www.kickstarter.com/projects/phfjr/arkavo-reddit-like-web-api-open-source-donation-based/comments)
